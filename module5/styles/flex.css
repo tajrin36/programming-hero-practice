@@ -1,0 +1,25 @@
+.parent{
+    background-color: aqua;
+    /* padding: 20px; */
+    display: flex;
+    gap: 20px;
+    /* justify-content: center; */
+    /* justify-content: end; */
+    /* justify-content: start; */
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    /* height: 300px; */
+    /* align-items:center; */
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.child{
+    background-color: lightpink;
+    /* margin-bottom: 10px; */
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    
+}
